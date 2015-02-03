@@ -420,7 +420,7 @@ _[Back to ToC](#table-of-contents)_
 
 ####Redis Commands
 
-> The __Dueces.commands__ property contains methods to encode and send __Redis__ commands.
+> The __Deuces.commands__ property contains methods to encode and send __Redis__ commands.
 
 > Arguments within [ ] are optional, '|' indicates multiple type for argument.
 
